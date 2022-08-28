@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/angelicasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br><br>
+  <img height="180em" src="![Angélica's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=radical)"/><br><br>
   </div>
   
 ### 💡Estou estudando: 
