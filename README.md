@@ -1,5 +1,4 @@
 ### 👋 Hey! Eu me chamo Angélica e sou uma desenvolvedora em formação. Sou aluna da PUC Minas no curso de Sistemas para internet e em paralelo, estudo desenvolvimento front-end no curso Origamid.
-"A vida é mais do que ficar só esperando..."(J.K. & Shura) 
 
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com)<br><br>
