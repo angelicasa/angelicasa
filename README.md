@@ -10,8 +10,8 @@ each one of us, through our thoughts and actions.
 
 <div align="center">
   <a href="https://github.com/angelicasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt">
   </div>
   
 ### 💡 Estou estudando: 
