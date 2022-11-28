@@ -18,8 +18,12 @@
      <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-
+### 
 <div>
-<a href = "mailto:anscotcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif">
+    </div>
+    <div>
+    <a href="https://tenor.com/pt-BR/view/contacts-call-me-call-phone-shaka-gif-1066805742022411023"></a>
+    <a href = "mailto:anscotcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/angelicasa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
