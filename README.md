@@ -1,6 +1,4 @@
-### 👋 Hey! I'm Angélica, i live in Rio de Janeiro.
-A friendly person who takes great pleasure in meeting people from different cultures. I like being able to carry on a conversation on several issues and learn different point-of-views. If such experiences could be achieved while travelling around the world, even better. When it comes to the future of mankind, I believe that the change should start inside
-each one of us, through our thoughts and actions. 
+### 👋 Hey! Eu sou a Angélica e sou estudante de Sistemas para internet.
 
 📚 PUC Minas <br>
 📚 Origamid 
@@ -9,10 +7,10 @@ each one of us, through our thoughts and actions.
 )](https://www.linkedin.com)<br><br>
 
 <div align="center">
-  <a href="https://github.com/angelicasa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt">
-  </div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rangelicasa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
   
 ### 💡 Estou estudando: 
 <div style="display: inline_block">
