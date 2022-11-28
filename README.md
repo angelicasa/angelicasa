@@ -1,7 +1,7 @@
 ### 👋 Hey! Eu sou a Angélica! 
 
-- 📚 PUC Minas
-- 🌱 Atualmente estou cursando Sistemas para internet na PUC Minas-ead. Entusiasta da tecnologia desde a época dos blogs, hoje estou em transição de carreira. Tem sido incrível me reinventar e descobrir novas possibilidades.
+- 📚 PUC Minas - ead
+- 🌱 Atualmente estou cursando Sistemas para internet. Entusiasta da tecnologia desde a época dos blogs, hoje estou em transição de carreira. Tem sido incrível me reinventar e descobrir novas possibilidades.
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Curiosidade: Tenho 41 plantas de folhas exóticas no meu apê.
 
@@ -17,6 +17,8 @@
      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+
+
 <div>
 <a href = "mailto:anscotcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/angelicasa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
