@@ -21,12 +21,12 @@
 
 
 ### :incoming_envelope:  Vamos conversar!
-<div
-<a href="https://github.com/angelicasa"><img align="left" width="150" height="150" src="https://media.tenor.com/Ds4OK5GXww8AAAAi/contacts-call-me.gif?raw=true"></a></div>
 <div>
-    <a href="https://tenor.com/pt-BR/view/contacts-call-me-call-phone-shaka-gif-1066805742022411023"></a>
-    <a href = "mailto:anscotcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:anscotcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/angelicasa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<div>
+<a href="https://github.com/angelicasa"><img align="left" width="150" height="150" src="https://media.tenor.com/Ds4OK5GXww8AAAAi/contacts-call-me.gif?raw=true"></a></div>
+
 
 
