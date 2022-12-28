@@ -1,7 +1,9 @@
 ### 👋 Hey! Eu sou a Angélica! (ela/dela)
 
 - 📚 PUC Minas - ead
-- 🌱 Atualmente estou cursando Sistemas para internet. Entusiasta da tecnologia desde a época dos blogs, estou em transição de carreira e tem sido incrível me reinventar e descobrir novas possibilidades.
+- 📖 Atualmente estou cursando Sistemas para internet. 
+- 🌱 Sou apaixonada por tecnologia desde adolescente, onde de forma autodidata fazia templates dos antigos blogs e compartilhava na internet e, hoje, estou resgatando essas habilidades durante minha transição de área. Busco cada vez mais ampliar meus conhecimentos e sigo focada em uma recolocação no mercado e tem sido um enorme prazer descobrir e tornar real essa possibilidade.
+- 🤝 Desejo sempre ajudar na criação e desenvolvimento de projetos e, assim, expandir minhas habilidades interpessoais e experiências profissionais.
 - ⚡ Curiosidade: Tenho 41 plantas de folhas exóticas no meu apê.
 
 <div align="center">
