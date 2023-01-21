@@ -6,8 +6,7 @@
 - 🤝 Desejo sempre ajudar na criação e desenvolvimento de projetos e, assim, expandir minhas habilidades interpessoais e experiências profissionais.
 - ⚡ Curiosidade: Tenho 41 plantas de folhas exóticas no meu apê.
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact)](https://github.com/angelicasa/github-readme-stats)
+<a href="https://github.com/angelicasa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angelicasa's github stats" /></a> | <a href="https://github.com/angelicasa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact&theme=buefy&hide_border=true" /></a> 
 
   
   
