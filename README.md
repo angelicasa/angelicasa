@@ -7,8 +7,10 @@
 - ⚡ Curiosidade: Tenho 41 plantas de folhas exóticas no meu apê.
 
 <div align="center">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=angelicasa&count_private=true&show_icons=true&theme=cobalt&icon_color=268bd2&title_color=268bd2" alt="angelicasa" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact&langs_count=7&theme=cobalt" />
+    <<img width="42%" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact&langs_count=7&theme=cobalt"/>
+    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=angelicasa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicasa&layout=compact&langs_count=7&theme=cobalt"/>
   
   
 ### 💡 Estou estudando: 
