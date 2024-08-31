@@ -1,7 +1,7 @@
 ### 👋 Hey! Eu sou a Angélica! (ela/dela)
 
-- 📚 PUC Minas/ead - Sistemas para internet - 3º período.
-- 📖 Conhecimentos em desenvolvimento web (HTML/CSS/JavaScript e React inicial), python nível 1, Java nível 1, plano de testes, cenários de testes, casos de testes, report de bugs, banco de dados, API test, SQL, Postman. Estudando ferramentas de automação.
+- 📚 PUC Minas/ead - Sistemas para internet - 4º período.
+- 📖 Conhecimentos em desenvolvimento web, plano de testes, cenários de testes, casos de testes, report de bugs, banco de dados, API test, SQL, Postman, Insomnia, Cypress. Estudando ferramentas de automação.
 - 🌱 Sou apaixonada por tecnologia desde adolescente, onde de forma autodidata fazia templates dos antigos blogs e compartilhava na internet e, hoje, estou resgatando essas habilidades durante minha transição de área. Busco cada vez mais ampliar meus conhecimentos e sigo focada em uma recolocação no mercado e tem sido um enorme prazer descobrir e tornar real essa possibilidade.
 - 🤝 Desejo sempre ajudar na criação e desenvolvimento de projetos e, assim, expandir minhas habilidades interpessoais e experiências profissionais.
 - ⚡ Curiosidade: Tenho 41 plantas de folhas exóticas no meu apê.
